@@ -19,7 +19,7 @@
         android:layout_margin="20dp"
 
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-        android:textColor="#ffffff"
+        android:textColor="#0fffff"
         android:textSize="45dp"
         android:textStyle="bold" />
 
